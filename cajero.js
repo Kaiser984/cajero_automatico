@@ -43,5 +43,3 @@ var cuentas = [
 
     validar_acceso(get_usuario, get_password);
 })
-  
-//hola cambio
